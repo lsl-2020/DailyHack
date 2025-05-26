@@ -20,4 +20,4 @@
 
 ## 后话
 去掉Nas以后，搭建技术成本降低了很多，但是也少掉了本地高速存储网络的绝大部分优势,比如Apple TV上可以用infuse pro来高速访问本地NAS设备里的超高清影剧集。NAS还可以成为手机照片视频的备份服务器，提供24小时在线的PT(private tracker)上传下载，搭建个人文件服务器，个人网站服务器，等等等等。
-<span style="color:red">***但是***</span>，好处归好处，Nas是一个金钱和精力的无底深坑，衷心建议小白慎重入坑:panda_face::panda_face::panda_face:
+<span style="color:red">***但是***</span>，好处归好处，Nas是一个金钱和精力的无底深坑，衷心建议小白慎重入坑:mask::mask::mask:
